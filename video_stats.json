@@ -1,0 +1,21 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "GbHg0LLpY_i43GfxQBwJhbOGmv8",
+  "nextPageToken": "EAAaHlBUOkNETWlFRFE1TXpCQk1qYzRRVFUwTURkQk1EQQ",
+  "prevPageToken": "EAEaHlBUOkNESWlFRE5HUWtReVFqVTRNRFkxTVVVMVF6WQ",
+  "items": [
+    {
+      "kind": "youtube#playlistItem",
+      "etag": "FA9dsBpiN0hpowtuP89Z5yzy8pg",
+      "id": "VVVYNk9RM0RrY3NiWU5FNkg4dVFRdVZBLnJCOU55bkJaNGdv",
+      "contentDetails": {
+        "videoId": "rB9NynBZ4go",
+        "videoPublishedAt": "2025-08-19T16:00:02Z"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 943,
+    "resultsPerPage": 1
+  }
+}
