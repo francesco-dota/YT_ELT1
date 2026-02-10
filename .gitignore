@@ -1,3 +1,5 @@
 venv/
 __pacache__/
 .env
+log/
+data/
