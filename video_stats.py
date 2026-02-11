@@ -33,7 +33,6 @@ def get_playlist_id():
         return(channel_playlist_id)
     except requests.exceptions.RequestException as e:
         raise e
-    
 
 
 def get_video_ids(playlist_id):
